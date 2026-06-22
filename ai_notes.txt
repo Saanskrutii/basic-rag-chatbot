@@ -1,0 +1,19 @@
+Embeddings convert text into numerical vectors.
+
+Vector databases store embeddings and allow similarity search.
+
+ChromaDB is a vector database.
+
+Similarity search finds documents based on meaning instead of exact keywords.
+
+RAG stands for Retrieval Augmented Generation.
+
+Chunking splits large documents into smaller pieces.
+
+FastAPI is used to build APIs.
+
+Gemini is a Large Language Model.
+
+Retrieval is the process of finding relevant information before generating an answer.
+
+Vector embeddings help computers understand semantic meaning.
